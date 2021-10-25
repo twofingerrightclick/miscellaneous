@@ -54,7 +54,7 @@ With the card in at long last in hand, I took more precise measurements and desi
 
 After several versions of the mounts, a final design was reached, and the card went in with minimal trouble to complete the build! 
 
-Click for a Gif of the setup process:
+### Click for a Gif of the setup process:
 https://intellitect.com/wp-content/uploads/2021/10/6mb-austen-pc.gif
 ![setting up the workstation](https://intellitect.com/wp-content/uploads/2021/10/6mb-austen-pc.gif "setting up the workstation")
 
